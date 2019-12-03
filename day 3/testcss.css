@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kartu{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.gambar{
+    transition: 700ms;
+}
+.gambar:hover{
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+.gambar1{
+    border-radius: 10px;
+    overflow: hidden;
+}
